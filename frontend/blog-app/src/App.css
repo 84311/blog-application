@@ -1,0 +1,40 @@
+html, body, #root, .App {
+    height: 100%;
+}
+
+.main {
+    min-height: 100%;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    margin-top: auto;
+}
+
+.text-gold {
+    color: gold;
+}
+
+.delete-btn, .edit-btn {
+    transition: color 0.2s, transform 0.2s;
+}
+
+.delete-btn:hover {
+    color: red;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.edit-btn:hover {
+    color: orange;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.categories {
+    white-space: nowrap;
+}

@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "name": "Sport"
+    },
+    {
+      "name": "Technology"
+    },
+    {
+      "name": "Programming"
+    }
+  ],
+  "posts": [
+    {
+      "title": "Welcome to my blog!",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean placerat odio eget libero hendrerit finibus. Maecenas vitae ligula accumsan, congue libero vitae, vulputate enim. Cras tempus metus eu turpis tincidunt bibendum. Proin et lectus sem. Nunc vel mi massa. Cras at dui consequat, placerat elit quis, consectetur ligula. Etiam lacinia justo ut consectetur vehicula. Proin sit amet felis sed dui sagittis interdum. Phasellus ipsum sapien, laoreet ac scelerisque et, fringilla venenatis augue. Duis vestibulum viverra turpis nec interdum. Nulla dui mi, molestie vitae consequat ut, lacinia et nibh. Curabitur nunc ex, maximus id efficitur eget, tristique sit amet tortor.\n\nSed vel volutpat urna, vel ultrices sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce eu risus convallis, porta purus ac, congue felis. Nullam consectetur nisi nec enim molestie, eget aliquet arcu egestas. Ut venenatis nunc eget erat hendrerit, eu ultrices erat ornare. Phasellus mi lorem, commodo non vehicula eu, fringilla sit amet turpis. In non dictum neque. Donec sodales imperdiet risus. Etiam at nulla non velit elementum volutpat vitae sit amet tellus.\n\nVivamus at urna placerat, ullamcorper enim egestas, volutpat velit. Fusce et pretium ligula, tristique condimentum magna. Curabitur sollicitudin nunc id congue lobortis. Aliquam maximus velit ante, in feugiat dolor pretium id. Pellentesque sagittis gravida ipsum a ullamcorper. Sed ultricies est eu risus pulvinar, nec vehicula metus accumsan. Etiam eget magna justo. Sed porttitor massa a velit dapibus, id mollis turpis dignissim. Duis rhoncus nibh ut arcu pulvinar eleifend. Fusce sit amet tincidunt ligula. Praesent sit amet sapien at tellus congue porttitor. Nunc sem mi, bibendum in mi et, porta ullamcorper dolor. Suspendisse dignissim eros ac augue maximus, facilisis suscipit ante iaculis. Etiam congue sem est.",
+      "date": "2023-06-24T09:15:30",
+      "postType": "WELCOMING"
+    },
+    {
+      "title": "Welcome to my blog!",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean placerat odio eget libero hendrerit finibus. Maecenas vitae ligula accumsan, congue libero vitae, vulputate enim. Cras tempus metus eu turpis tincidunt bibendum. Proin et lectus sem. Nunc vel mi massa. Cras at dui consequat, placerat elit quis, consectetur ligula. Etiam lacinia justo ut consectetur vehicula. Proin sit amet felis sed dui sagittis interdum. Phasellus ipsum sapien, laoreet ac scelerisque et, fringilla venenatis augue. Duis vestibulum viverra turpis nec interdum. Nulla dui mi, molestie vitae consequat ut, lacinia et nibh. Curabitur nunc ex, maximus id efficitur eget, tristique sit amet tortor.Sed vel volutpat urna, vel ultrices sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce eu risus convallis, porta purus ac, congue felis. Nullam consectetur nisi nec enim molestie, eget aliquet arcu egestas. Ut venenatis nunc eget erat hendrerit, eu ultrices erat ornare. Phasellus mi lorem, commodo non vehicula eu, fringilla sit amet turpis. In non dictum neque. Donec sodales imperdiet risus. Etiam at nulla non velit elementum volutpat vitae sit amet tellus.\n\n\nVivamus at urna placerat, ullamcorper enim egestas, volutpat velit. Fusce et pretium ligula, tristique condimentum magna. Curabitur sollicitudin nunc id congue lobortis. Aliquam maximus velit ante, in feugiat dolor pretium id. Pellentesque sagittis gravida ipsum a ullamcorper. Sed ultricies est eu risus pulvinar, nec vehicula metus accumsan. Etiam eget magna justo. Sed porttitor massa a velit dapibus, id mollis turpis dignissim. Duis rhoncus nibh ut arcu pulvinar eleifend. Fusce sit amet tincidunt ligula. Praesent sit amet sapien at tellus congue porttitor. Nunc sem mi, bibendum in mi et, porta ullamcorper dolor. Suspendisse dignissim eros ac augue maximus, facilisis suscipit ante iaculis. Etiam congue sem est.",
+      "date": "2022-11-12T18:45:10",
+      "postType": "NORMAL"
+    },
+    {
+      "title": "Welcome to my blog!",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean placerat odio eget libero hendrerit finibus. Maecenas vitae ligula accumsan, congue libero vitae, vulputate enim. Cras tempus metus eu turpis tincidunt bibendum. Proin et lectus sem. Nunc vel mi massa. Cras at dui consequat, placerat elit quis, consectetur ligula. Etiam lacinia justo ut consectetur vehicula. Proin sit amet felis sed dui sagittis interdum. Phasellus ipsum sapien, laoreet ac scelerisque et, fringilla venenatis augue. Duis vestibulum viverra turpis nec interdum. Nulla dui mi, molestie vitae consequat ut, lacinia et nibh. Curabitur nunc ex, maximus id efficitur eget, tristique sit amet tortor.Sed vel volutpat urna, vel ultrices sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce eu risus convallis, porta purus ac, congue felis. Nullam consectetur nisi nec enim molestie, eget aliquet arcu egestas. Ut venenatis nunc eget erat hendrerit, eu ultrices erat ornare. Phasellus mi lorem, commodo non vehicula eu, fringilla sit amet turpis. In non dictum neque. Donec sodales imperdiet risus. Etiam at nulla non velit elementum volutpat vitae sit amet tellus.\nVivamus at urna placerat, ullamcorper enim egestas, volutpat velit. Fusce et pretium ligula, tristique condimentum magna. Curabitur sollicitudin nunc id congue lobortis. Aliquam maximus velit ante, in feugiat dolor pretium id. Pellentesque sagittis gravida ipsum a ullamcorper. Sed ultricies est eu risus pulvinar, nec vehicula metus accumsan. Etiam eget magna justo. Sed porttitor massa a velit dapibus, id mollis turpis dignissim. Duis rhoncus nibh ut arcu pulvinar eleifend. Fusce sit amet tincidunt ligula. Praesent sit amet sapien at tellus congue porttitor. Nunc sem mi, bibendum in mi et, porta ullamcorper dolor. Suspendisse dignissim eros ac augue maximus, facilisis suscipit ante iaculis. Etiam congue sem est.",
+      "date": "2021-07-05T14:20:55",
+      "postType": "NORMAL"
+    },
+    {
+      "title": "Testing search",
+      "content": "Cat Dog Elephant Lion",
+      "date": "2020-12-01T07:30:25",
+      "postType": "NORMAL"
+    }
+  ]
+}
